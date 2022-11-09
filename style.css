@@ -4,6 +4,7 @@ body {
     font-size: 1em;
     margin: 0;
     padding: 0;
+    background: linear-gradient(to right, #f46b45, #eea849);
 }
 
 .clockDisplay {
